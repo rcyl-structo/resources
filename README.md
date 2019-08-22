@@ -24,6 +24,7 @@ This repo contains a collection of links of self paced courses, articles, videos
 8. Make and Makefiles
 - https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
 - http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
+- http://derekmolloy.ie/hello-world-introductions-to-cmake/
 9. (Follow at least util chapter 9) Exploring BeagleBone (Book)
 - http://exploringbeaglebone.com/
 10. I2C, SPI and UART
