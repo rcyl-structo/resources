@@ -1,5 +1,5 @@
 # Resources
-This repo contains a collection of links of self paced courses, articles, videos and books which are meant for someone with some prgramming experience to pick up embedded software and firmware development.
+This repo contains a collection of links of self paced courses, articles, videos and books which are meant for someone with some programming experience to pick up embedded software and firmware development.
 
 ## Basics
 1. Setting Up a Unix Machine (3 possible options)
