@@ -11,6 +11,7 @@ This repo contains a collection of links of self paced courses, articles, videos
   - https://docs.microsoft.com/en-us/windows/wsl/install-win10
 2. Basic Unix
 - http://matt.might.net/articles/basic-unix/
+- https://www.thegeekdiary.com/11-useful-ssh-and-scp-commands-in-linux/
 3. (Optional) Introduction to Linux MOOC
 - https://www.edx.org/course/introduction-to-linux
 4. Git/GitHub MOOC
